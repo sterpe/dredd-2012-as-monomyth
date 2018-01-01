@@ -1,4 +1,6 @@
-# *Dredd (2012)* as Joseph Campbell's "Hero's Journey" Monomyth
+# *Dredd (2012)* as Campbell's "Hero's Journey"
+
+![Dredd (2012)](judge-dredd-review_1327.jpg)
 
 
 _Star Wars_ is a typical example, but let's look at 2012's _Dredd_
