@@ -7,20 +7,20 @@ See: http://changingminds.org/disciplines/storytelling/plots/hero_journey/hero_j
 
 ### I. Separation / departure
 
-The first section of the story is about the separation of the hero from
+> The first section of the story is about the separation of the hero from
 the normal world. Separation has symbolic echo of infant transition away
 from the mother and so has a scary feel to it.
 
 #### I.1 The Call to Adventure
-  The hero starts off in a mundane situation of normality from which
+  > The hero starts off in a mundane situation of normality from which
   some information is received that acts as a clarion call to down
   tool, take up sword and head off into the unknown.
 
-  _After a routine traffic stop in Megacity-1, Judge Dredd is called
-  back to Headquarters._
+  After a routine traffic stop in Megacity-1, Judge Dredd is called
+  back to Headquarters.
 
 #### I.2 Refusal of the Call
-  The hero, hearing the call to adventure, initially may hesitate,
+  > The hero, hearing the call to adventure, initially may hesitate,
   reluctant to leave the comfort and tasks of everyday existence.
   Perhaps they are afraid of what may happen to them. Perhaps they
   do not see the call as important, being more engrossed in their
@@ -34,14 +34,14 @@ from the mother and so has a scary feel to it.
   venture.
 
 #### I.2.1 Acceptance of the Call
-  After having perhaps first refused to accept the Call to Adventure,
+  > After having perhaps first refused to accept the Call to Adventure,
   the hero finally accedes, realizing ther is nobody else who is better
   qualified to or available to accept responsibility.
 
   Judge Dredd agrees to take Anderson out for formal evaluation.
 
 #### I.3 Supernatural Aid
-  Some help is given to the hero, sufficient to make them wiser and
+  > Some help is given to the hero, sufficient to make them wiser and
   stronger and hopefully better able to face the challenges of the
   adventure.
 
@@ -56,18 +56,18 @@ from the mother and so has a scary feel to it.
   as she and Dredd's destination.
 
 #### I.4 Crossing of the first Threshold
-  The crossing of the threshold is the point of no return as the hero sets
+  > The crossing of the threshold is the point of no return as the hero sets
   out on the journey.
 
   Dredd and Anderson cross the threshold of Peach Tree apartment's blast
   door, without full recognizing this as a point of no return.
 
-Start of Act II: Major Plot Point
+### Start of Act II: Major Plot Point
   Ma-Ma seals the block, with the Judges inside after they apprehend one
   of her gang-members in what initially appears to be a routine bust.
 
 #### I.5 Entering the Belly of the Whale
-  The hero enters the zone of danger. This may start immediately after the
+  > The hero enters the zone of danger. This may start immediately after the
   first threshold or may require some travel
 
   The Judges are trapped inside Peach Trees with no way out and no
@@ -76,14 +76,14 @@ Start of Act II: Major Plot Point
 
 ### II. Initiation
 
-In the main part of the story the hero is initiated into true heroic stature by various
+> In the main part of the story the hero is initiated into true heroic stature by various
 trials and rites. Through daring and battle, the true character emerges.
 
-(Note: from this point forward most of the mono-myth 'beats' relate to Judge-
+(Note: from this point forward most of the monomyth 'beats' relate to Judge-
 candidate Anderson, not so much Dredd, who's character growth is more subtle).
 
-II.1 Road of Trials
-  Have left home, the pathwat to and through the adventure now lies ahead for the hero.
+#### II.1 Road of Trials
+  > Have left home, the pathwat to and through the adventure now lies ahead for the hero.
   Each trial may be more difficult than the last as the hero grows in confidence and
   capability.
   The road is not all battle and the hero may well find moments of respite along the
@@ -99,7 +99,7 @@ II.1 Road of Trials
   prisoner.
 
 #### II.2 The Meeting with the Goddess
-  On the road the hero may meet a powerful female figure with whom he finds unity and
+  > On the road the hero may meet a powerful female figure with whom he finds unity and
   bonding of some kind. The goddess may be a mystical or supernatural being or she
   may be an ordinary woman with whom the hero gains support and syngergy.
 
@@ -110,7 +110,7 @@ II.1 Road of Trials
   Also Anderson saves Dredd's life, so there's that too.
 
 #### II.3 Woman as Temptress
-  Along the way, the hero may meet temptation, often in female form
+  > Along the way, the hero may meet temptation, often in female form
   The purpose of the temptress is to test the hero.
 
   In a bit of an inversion, Judge Anderson is the one who is tempted by the
@@ -121,7 +121,7 @@ II.1 Road of Trials
   Ma-Ma calls 911, bringing in corrupt Judges, Anderson is captured.
 
 #### II.4 Atonement with the Father
-  The hero may come up against a 'father figure' who must be beaten, persuaded, or
+  > The hero may come up against a 'father figure' who must be beaten, persuaded, or
   whose approval must be achieved in some way. Ultimately, by whatever means, the
   difficult relationship between the two must be reconciled.
 
@@ -133,7 +133,7 @@ II.1 Road of Trials
 
 
 #### II.5 Apotheosis
-  After trials such as resisting Woman as Temptress and the reconciliation of
+  > After trials such as resisting Woman as Temptress and the reconciliation of
   Atonement with the Father, the hero transcends, acheiving a higher place.
 
   Judge Anderson's moment of Apotheosis occurs when she tricks Ma-Ma's thug into
@@ -142,14 +142,14 @@ II.1 Road of Trials
   change in herself that allows her reconciliation with Judge Dredd to occur.
 
 #### II.6 The Ultimate Boon
-  Eventually through the many trials, the goal of the journey is achieve. This is
+  > Eventually through the many trials, the goal of the journey is achieve. This is
   the ultimate boon.
 
   Ma-Ma is defeated, the Peach Trees are unsealed, the heros exit the block.
 
 ### III.1 Refusal of the Return
 
-Having gained the Ultimate Boon, the hero wants to stay in the place where
+> Having gained the Ultimate Boon, the hero wants to stay in the place where
 they have found bliss and enlightenemnt.
 In comparison, the dull monotony of 'normal life' seems unacceptable, make the
 hero re-live the excitement in some way.
@@ -160,19 +160,21 @@ hero re-live the excitement in some way.
   give up her dream to do some good in Megacity-1.
 
 #### III.2 Magic Flight
+  > The hero hurries home with the treasure that has been gained in the Ultimate Boon.
+  
   As the Peach Trees blast-doors open Dredd and Anderson are met by 
   rescue personal and others from the Hall of Justice.
 
 #### III.3 Rescue from Without
 
-  The hero is rescued from a final plight from an unexpected source.
+  > The hero is rescued from a final plight from an unexpected source.
 
   Judge Dredd, in a change of heart, tells the chief that Anderson passed
   her evaluation.
 
 #### III.4 Crossing of the Return Threshold
 
-  At last, the hero returns to home turf, where they are safe from further
+  > At last, the hero returns to home turf, where they are safe from further
   pursuit or woes.
   Crossing of the threshold may not be an easy task, as on last challenge may
   face the hero. This may range from on last fight with a foe though vanquished.
@@ -186,7 +188,7 @@ hero re-live the excitement in some way.
 
 #### III.5 Master of the Two Worlds
 
-Having completed the journey out and back in, the hero is now master of both the
+> Having completed the journey out and back in, the hero is now master of both the
 domestic and alien worlds and can pass over the threshold between the two without
 further trail.
 
@@ -197,7 +199,7 @@ further trail.
 
 #### III.6 Freedom to Live
 
-  At last, having conquered the demons without and within, the hero has earned
+  > At last, having conquered the demons without and within, the hero has earned
   the right to live life as they choose.
 
   Anderson has become a Judge capable of doing some good for the daily-stricken
