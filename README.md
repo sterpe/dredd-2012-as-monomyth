@@ -16,8 +16,8 @@ from the mother and so has a scary feel to it.
   some information is received that acts as a clarion call to down
   tool, take up sword and head off into the unknown.
 
-  After a routine traffic stop in Megacity-1, Judge Dredd is called
-  back to Headquarters.
+  _After a routine traffic stop in Megacity-1, Judge Dredd is called
+  back to Headquarters._
 
 #### I.2 Refusal of the Call
   The hero, hearing the call to adventure, initially may hesitate,
