@@ -1,4 +1,8 @@
-# *Dredd (2012)* as Joseph Campbell's Monomyth
+# *Dredd (2012)* as Joseph Campbell's "Hero's Journey" Monomyth
+
+
+_Star Wars_ is a typical example, but let's look at 2012's _Dredd_
+starring Karl Urban and Olivia Thirlby.
 
 (Note: Descriptions of the Monomyth beats are quoted more or less verbatim from
 changingminds.org)
