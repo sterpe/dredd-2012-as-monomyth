@@ -1,4 +1,6 @@
-I. Separation / departure
+# *Dredd* as Joseph Campbell's Monomyth
+
+## I. Separation / departure
 
 The first section of the story is about the separation of the hero from
 the normal world. Separation has symbolic echo of infant transition away
@@ -67,7 +69,7 @@ I.5 Entering the Belly of the Whale
   apparent help. The stakes are raised for Dredd and Anderson.
 
 
-II. Initiation
+## II. Initiation
 
 In the main part of the story the hero is initiated into true heroic stature by various
 trials and rites. Through daring and battle, the true character emerges.
@@ -140,7 +142,7 @@ II.6 The Ultimate Boon
 
   Ma-Ma is defeated, the Peach Trees are unsealed, the heros exit the block.
 
-III.1 Refusal of the Return
+## III.1 Refusal of the Return
 
 Having gained the Ultimate Boon, the hero wants to stay in the place where
 they have found bliss and enlightenemnt.
