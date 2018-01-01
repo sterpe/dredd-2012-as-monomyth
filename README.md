@@ -185,12 +185,12 @@ hero re-live the excitement in some way.
   Crossing of the threshold may not be an easy task, as on last challenge may
   face the hero. This may range from on last fight with a foe though vanquished.
 
-  Dredd doesn't actually have this in as clear a way as other films, it could
-  be argued that Ma-Ma's heartbeat linked bomb, is an aspect of this, also it
-  can be considered that the chief's request that Dredd render Anderson's evaluation
-  is also a form of this. For Dredd he must confront whether he has learned
-  anything about strict legalism vs mercy in rendering his judgement and for
-  Anderson it is quite literally, her last battle in the fight to become a Judge.
+  _Dredd_ doesn't actually have this in as clear a way as other films, it could
+  be argued that Ma-Ma's heartbeat linked bomb, is an aspect of this. But I think
+  a better beat is the chief's request that Dredd render Anderson's evaluation:
+  For Dredd he must confront whether he has learned anything about strict legalism 
+  vs mercy in rendering his judgement and for Anderson it is quite literally, her
+  last battle in the fight to become a Judge.
 
 #### III.5 Master of the Two Worlds
 
