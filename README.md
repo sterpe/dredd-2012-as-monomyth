@@ -143,7 +143,7 @@ candidate Anderson, not so much Dredd, who's character growth is more subtle).
   Atonement with the Father, the hero transcends, acheiving a higher place.
 
   Judge Anderson's moment of Apotheosis occurs when she tricks Ma-Ma's thug into
-  trying to use her Judge's gun which explodes, killing him, due to it's DNA
+  trying to use her Judge's Law-giver gun which explodes, killing him, due to it's DNA
   check.  This occurs actually prior to Atonement with the Father and is the 
   change in herself that allows her reconciliation with Judge Dredd to occur.
 
@@ -161,7 +161,7 @@ In comparison, the dull monotony of 'normal life' seems unacceptable, make the
 hero re-live the excitement in some way.
 
   This is slightly inverted: Anderson hands over her badge to Dredd, certain
-  she has failed to become a Judge do to her 'picking up the automatic fail for
+  she has failed to become a Judge due to her 'picking up the automatic fail' for
   losing her Law-giver weapon, and storms away visibly upset that she must
   give up her dream to do some good in Megacity-1.
 
